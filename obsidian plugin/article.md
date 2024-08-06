@@ -35,6 +35,8 @@ I submitted the pull request and then came the waiting game.
 
 Aftfer some description-fixing (and "Refresh-Command" removal), to my relief and excitement, the plugin was approved and merged into the official community plugins list. Seeing "Auto Folder Collapse" listed among other plugins in the community felt incredibly rewarding. It was a validation of the work I had put in and the idea that started as a small frustration.
 
+This means, that the plugin is now available for anyone to download and use. To install it, you can simply go to the "Community Plugins" section in Obsidian, search for "Auto Folder Collapse," and click the install button.
+
 ### Conclusion: Reflecting on the Experience
 
 Developing and releasing "Auto Folder Collapse" was a learning experience in many ways. It wasn’t just about coding; it was about stepping out of my comfort zone, contributing to a community, and seeing an idea come to life in a way that could help others. The feeling of providing something that the world needs/wants is surely one of the best. After 6 days since the release, the plugin has been downloaded 132 times, which is a number I never expected to reach in this time.
